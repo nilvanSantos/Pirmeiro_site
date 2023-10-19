@@ -1,0 +1,52 @@
+html{
+background: linear-gradient(to bottom,black,red,black)
+}
+header .nav-wrapper{
+    background-color: black;
+}
+.nav-content{
+    margin-top: 0;
+    background-color: black;
+}
+.tab{
+background-color: rgba(109, 3, 3, 0.685);}
+#carousel{
+    background: linear-gradient(to bottom,black,rgba(0, 0, 0, 0.829),transparent)
+
+}
+.carousel-item{
+    height: 400px; top: 100px;
+    margin: 0;
+}
+.container{
+background-color: transparent;}
+h1 {
+    font-size: 4.2rem;
+    line-height: 110%;
+    margin: 0 !important;
+    padding-top: 20px;
+    background:  linear-gradient(to left,rgb(29, 2, 2),red);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+h2{
+margin: 0 !important;
+background:  linear-gradient(to left,rgb(29, 2, 2),red);
+background-clip: text;
+-webkit-background-clip: text;
+color: transparent;
+margin-left: 20px;
+border-left: 2px solid red;
+padding-left: 5px;
+
+}
+.cards-container{
+background: linear-gradient(to bottom,black,red);
+padding: 10px;}
+.sidenav{
+background-color: rgba(0, 0, 0, 0.562) !important;
+}
+.sidenav li>a {
+    color: rgba(248, 248, 248, 0.87);
+}
